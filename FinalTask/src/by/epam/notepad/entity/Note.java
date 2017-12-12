@@ -2,8 +2,8 @@
 package by.epam.notepad.entity;
 
 public class Note {
-	String noteDate;
-	String noteContent;
+	private String noteDate;
+	private String noteContent;
 	
 	public Note() {
 	}
